@@ -33,34 +33,34 @@ Here are some ideas to get you started:
 <details>
   <summary>Product Management</summary>
   <ul>
-      <li>TODO: Opportunity Canvas</li>
-      <li>TODO: Domain Story Telling</li>
-      <li>TODO: User Journey</li>
-      <li>TODO: Story Maps</li>
-      <li>TODO: Product Vision</li>
-      <li>TODO: Elevator Pith Framework</li>
-      <li>TODO: OKRs</li>
+      <li>Opportunity Canvas</li>
+      <li>Domain Story Telling</li>
+      <li>User Journey</li>
+      <li>Story Maps</li>
+      <li>Product Vision</li>
+      <li>Elevator Pith Framework</li>
+      <li>OKRs</li>
   </ul>
 </details>
 
 <details>
     <summary>Agile</summary>
     <ul>
-        <li>TODO: Agile Manifesto</li>
-        <li>TODO: Scrum Master Cheat Sheet</li>
-        <li>TODO: Scrum Ceremonies</li>
-        <li>TODO: Scrum vs Kanban</li>
-        <li>TODO: Team Norms</li>
-        <li>TODO: Templates</li>
+        <li>Agile Manifesto</li>
+        <li>Scrum Master Cheat Sheet</li>
+        <li>Scrum Ceremonies</li>
+        <li>Scrum vs Kanban</li>
+        <li>Team Norms</li>
+        <li>Templates</li>
     </ul>
 </details>
 
 <details>
     <summary>DevOps</summary>
     <ul>
-        <li>TODO: Fast Flow</li>
-        <li>TODO: Fast Feedback</li>
-        <li>TODO: Continual Learining and Experimentation</li>
+        <li>Fast Flow</li>
+        <li>Fast Feedback</li>
+        <li>Continual Learining and Experimentation</li>
     </ul>
 </details>
 
@@ -74,12 +74,15 @@ Here are some ideas to get you started:
         <li>High-Level Design</li>
         <li>Data Model</li>
         <li>Optimize for Bottlenecks</li>
+        <li>Distributed Systems</li>
     </ul>
 </details>
 
 <details>
   <summary>Though Leaders</summary>
   <ul>
+    <li><a href="https://www.pragmaticengineer.com/" target="_blank">Gergely Orosz</a></li>
+    <li><a href="https://bytebytego.com" target="_blank">Alex Xu</a></li>
     <li><a href="https://github.com/joelparkerhenderson" target="_blank">Joel Parker Henderson</a></li>
   </ul>
 </details>
