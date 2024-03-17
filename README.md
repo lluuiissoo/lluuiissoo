@@ -65,6 +65,19 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+    <summary>System Design</summary>
+    <ul>
+        <li>Functional Requirements</li>
+        <li>Non-functional / Quality Requirements</li>
+        <li>Capacity Estimation</li>
+        <li>API Design</li>
+        <li>High-Level Design</li>
+        <li>Data Model</li>
+        <li>Optimize for Bottlenecks</li>
+    </ul>
+</details>
+
+<details>
   <summary>Though Leaders</summary>
   <ul>
     <li><a href="https://github.com/joelparkerhenderson" target="_blank">Joel Parker Henderson</a></li>
