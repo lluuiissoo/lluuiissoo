@@ -32,20 +32,36 @@ Here are some ideas to get you started:
 ## Resources
 <details>
   <summary>Product Management</summary>
-  <details>
-    <summary>Level 1</summary>
-      <ul>
-        <li>aaa</li>
-        <li>bbb</li>
-      </ul>
-  </details>
-  <details>
-    <summary>Level 2</summary>
-      <ul>
-        <li>aaa</li>
-        <li>bbb</li>
-      </ul>
-  </details>
+  <ul>
+      <li>TODO: Opportunity Canvas</li>
+      <li>TODO: Domain Story Telling</li>
+      <li>TODO: User Journey</li>
+      <li>TODO: Story Maps</li>
+      <li>TODO: Product Vision</li>
+      <li>TODO: Elevator Pith Framework</li>
+      <li>TODO: OKRs</li>
+  </ul>
+</details>
+
+<details>
+    <summary>Agile</summary>
+    <ul>
+        <li>TODO: Agile Manifesto</li>
+        <li>TODO: Scrum Master Cheat Sheet</li>
+        <li>TODO: Scrum Ceremonies</li>
+        <li>TODO: Scrum vs Kanban</li>
+        <li>TODO: Team Norms</li>
+        <li>TODO: Templates</li>
+    </ul>
+</details>
+
+<details>
+    <summary>DevOps</summary>
+    <ul>
+        <li>TODO: Fast Flow</li>
+        <li>TODO: Fast Feedback</li>
+        <li>TODO: Continual Learining and Experimentation</li>
+    </ul>
 </details>
 
 <details>
