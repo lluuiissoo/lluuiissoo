@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Luis Carrazana
+I'm a software engineer and technology consultant.
 
 <!--
 **lluuiissoo/lluuiissoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
